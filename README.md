@@ -1,4 +1,4 @@
-### Hello Pedro Cardoso!  👋
+### Hello, my name is Pedro Cardoso!  👋
 
 
 - 🔭  I'm a Developer in training
