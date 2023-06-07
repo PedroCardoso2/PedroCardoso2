@@ -1,10 +1,10 @@
-### Olá ! Sou o Pedro Cardoso 👋
+### Hello Pedro Cardoso!  👋
 
 
-- 🔭 Sou Desenvolvedor em formação
-- 🌱 Liguagens: Java,PHP,JavaScript..
-- 📫 A procura de oportunidade de Trabalho
-- ⚡ Amo ler livros !
+- 🔭  I'm a Developer in training
+- 🌱 Languages: Java, PHP, JavaScript...
+- 📫  I'm looking for job opportunities.
+- ⚡ I love reading books!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +16,7 @@
 </div>
 
 <div>
- <h3>Entre em contato 😉</h3>
+ <h3>Get in touch 😉</h3>
 </div>
 
 <div> 
