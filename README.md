@@ -3,7 +3,6 @@
 
 - 🔭  I'm a Developer in training
 - 🌱 Languages: Java, PHP, JavaScript...
-- 📫  I'm looking for job opportunities.
 - ⚡ I love reading books!
 
 <div style="display: inline_block"><br>
