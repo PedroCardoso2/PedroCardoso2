@@ -27,7 +27,7 @@
 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroCardoso2&show_icons=true&theme=dark)
-<div style="display: flex">
+<div style="display: inline_block">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroCardoso2&theme=apprentice)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroCardoso2&theme=apprentice)|
 
 </div>
