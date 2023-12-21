@@ -24,3 +24,6 @@
   <a href="https://www.linkedin.com/in/pedro-lucas-cardoso-0036b5262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroCardoso2&show_icons=true&theme=dark)
